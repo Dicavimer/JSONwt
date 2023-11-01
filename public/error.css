@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+
+body{
+    height: 100vh;
+    background: #222;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 25vh;
+    margin: 0;
+    line-height: 1;
+}
